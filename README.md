@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Deewa (Nattawut Pasuk)
 
-<!--
-**dewakuneiei/dewakuneiei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+23-year-old Software Engineering graduate (University of Phayao, 2025).  
+I build full-stack web apps and ship things that work.  
+Currently open to **Full-Stack / Software Developer** roles in Thailand.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Skills
+
+**Web** · Laravel (PHP) · Next.js · React · Vue.js · Node.js · MySQL · MongoDB · Firebase · Tailwind CSS  
+**Game** · Unity (C#) · Godot · Roblox Studio (Lua)  
+**Currently Learning** · 🦀 Rust  
+**Other** · Git · Figma · jQuery
+
+---
+
+## 📬 Reach Me
+
+- 📧 dewapasuk.n@gmail.com  
+- 🌐 [dewakuneiei.xyz](https://dewakuneiei.xyz)  
+- 📱 065-818-6437
