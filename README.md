@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Deewa (Nattawut Pasuk)
+# 👋 Hi, I'm Deewa (Dewakuneiei)
 
-23-year-old Software Engineering graduate (University of Phayao, 2025).  
+Software Engineering graduate (University of Phayao, 2025).  
 I build full-stack web apps and ship things that work.  
-Currently open to **Full-Stack / Software Developer** roles in Thailand.
+Currently open to **Game Programmer** roles in Thailand.
 
 ---
 
@@ -18,5 +18,4 @@ Currently open to **Full-Stack / Software Developer** roles in Thailand.
 ## 📬 Reach Me
 
 - 📧 dewapasuk.n@gmail.com  
-- 🌐 [dewakuneiei.xyz](https://dewakuneiei.xyz)  
-- 📱 065-818-6437
+- 🌐 [dewakuneiei.com](https://dewakuneiei.com)  
