@@ -8,7 +8,7 @@ Currently open to **Game Programmer** roles in Thailand.
 
 ## 🛠️ Tools & Skills
 
-**Web** · Laravel (PHP) · Next.js · React · Vue.js · Node.js · MySQL · MongoDB · Firebase · Tailwind CSS  
+**Web** · Laravel (PHP) · Next.js · Nest.js · React · Vue.js · Node.js · MySQL · MongoDB · Firebase · Tailwind CSS  
 **Game** · Unity (C#) · Godot · Roblox Studio (Lua)  
 **Currently Learning** · 🦀 Rust  
 **Other** · Git · Figma · jQuery
